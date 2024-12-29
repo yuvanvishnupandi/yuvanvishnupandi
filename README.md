@@ -16,7 +16,7 @@ class Myself:
 
     def __init__(self):
         self.name = "Yuvan Vishnu Pandi"
-        self.current = "B.tech CSE student at SRM University (KTR)"
+        self.current = " 1st year B.tech CSE student at SRM University (KTR)"
         self.code = ["Python", "C", "C++","HTML","JavaScript"]
         self.languages_spoken = ["en_US","hi_IN", "ta_IN", "mr_IN", "ja_JP"]
 
