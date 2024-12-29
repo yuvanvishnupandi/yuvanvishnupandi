@@ -18,7 +18,7 @@ class Myself:
         self.name = "Yuvan Vishnu Pandi"
         self.current = "B.tech CSE student at SRM University (KTR)"
         self.code = ["Python", "C", "C++","HTML","JavaScript"]
-        self.language_spoken = ["en_US"]
+        self.languages_spoken = ["en_US","hi_IN", "ta_IN", "mr_IN", "ja_JP"]
 
     def say_hi(self):
         print("Thanks for visiting my GitHub profile!")
