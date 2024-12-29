@@ -35,3 +35,11 @@ me.say_hi()
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)
+
+<hr>
+<h3 align="left"></h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=कर्मण्येवाधिकारस्ते%20मा%20फलेषु%20कदाचन।%20मा%20कर्मफलहेतुर्भूर्मा%20ते%20संगोऽस्त्वकर्मणि॥&author=Bhagavad%20Gita&theme=dark" alt="Sanskrit Quote" />
+</p>
+<hr>
+
