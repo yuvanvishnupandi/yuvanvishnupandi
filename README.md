@@ -21,7 +21,7 @@ class Myself:
         self.languages_spoken = ["en_US","hi_IN", "ta_IN", "mr_IN", "ja_JP"]
         self.motivation = " Never Give Up!" 
     def say_hi(self):
-        print("Thanks for visiting my GitHub profile!")
+        print("Thanks for visiting my GitHub profile!!")
 
 
 me = myself()
