@@ -16,7 +16,7 @@ class Myself:
     def __init__(self):
         self.name = "Yuvan Vishnu Pandi"
         self.age = 18
-        self.current = " 1st year B.tech CSE student at SRM University (KTR)"
+        self.current = " 2nd year B.tech CSE student at SRM University (KTR)"
         self.code = ["Python", "C", "C++", "HTML", "CSS", "Javascript"]
         self.languages_spoken = ["en_US","hi_IN", "ta_IN", "mr_IN", "ja_JP"]
         self.motivation = " Never Give Up!!" 
