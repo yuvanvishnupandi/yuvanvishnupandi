@@ -2,7 +2,7 @@
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/yuvanvishnupandi)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yuvanvishnupandi@gmail.com)
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FFA500&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=100&lines=Hello+World+I'm+Yuvan+Vishnu!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FFA500&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=100&lines=Hello+Guys!+I'm+Yuvan+Vishnu!" />
 </div>
 
 
