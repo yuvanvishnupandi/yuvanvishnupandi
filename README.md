@@ -43,6 +43,6 @@ me.say_hi()
 **GitHub Trophies:**
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=yuvanvishnupandi&theme=radical&no-frame=true&margin-w=15&margin-h=15" /> </p>
 <hr> <h3 align="left"></h3>
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=I%20have%20not%20failed.%20I've%20just%20found%2010,000%20ways%20that%20won't%20work.&author=Thomas%20A.%20Edison&theme=dark" alt="Life and Failure Quote" /> </p> <hr>
+<!-- <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=I%20have%20not%20failed.%20I've%20just%20found%2010,000%20ways%20that%20won't%20work.&author=Thomas%20A.%20Edison&theme=dark" alt="Life and Failure Quote" /> </p> <hr> -->
 
 
