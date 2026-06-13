@@ -54,7 +54,7 @@ me.say_hi()
 ---
 
 
-## </> Tech Stack
+## </> Tech Stacks
 
 ### 🌐 Languages
 <div align="center">
