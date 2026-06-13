@@ -23,10 +23,10 @@
 
 ---
 
-<img align="right" alt="Coding GIF" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
 
 ## `whoami`
-
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://jeffjiang.vercel.app/)
 ```python
 #!/usr/bin/python3
 
