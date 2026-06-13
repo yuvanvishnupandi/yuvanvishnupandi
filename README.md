@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yuvan%20Vishnu%20Pandi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Conquer&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=600&color=FF8C00&center=true&vCenter=true&multiline=false&width=650&lines=Hey+there%2C+I'm+Vishnu+%F0%9F%91%8B;2nd+Year+CSE+%40+SRM+KTR+%F0%9F%8E%93;Full-Stack+Thinker+%7C+Linux+Nerd+%F0%9F%90%A7;DSA+Grinder+%7C+Open+Source+Explorer+%F0%9F%94%8D;Never.+Give.+Up.+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=600&color=FF8C00&center=true&vCenter=true&multiline=false&width=650&lines=Hey+there%2C+I'm+Yuvan+%F0%9F%91%8B;2nd+Year+CSE+Student+%40+SRM+KTR+%F0%9F%8E%93;Never.+Give.+Up.+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 <img align="right" alt="Coding GIF" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## 🧠 `whoami`
+##  `whoami`
 
 ```python
 #!/usr/bin/python3
@@ -34,14 +34,13 @@ class Vishnu:
 
     def __init__(self):
         self.name        = "Yuvan Vishnu Pandi"
-        self.age         = 18
+        self.age         = 19
         self.university  = "SRM University, KTR"
         self.degree      = "B.Tech CSE — 2nd Year"
         self.code        = ["Python", "C", "C++", "Java",
                             "HTML", "CSS", "JavaScript"]
-        self.os          = ["Ubuntu", "Fedora", "KDE Plasma"]
         self.tools       = ["VS Code", "IntelliJ", "Git", "Jupyter"]
-        self.interests   = ["DSA", "Open Source", "Linux", "AI/ML"]
+        self.interests   = ["AI", "ML", "Cloud", "DevOps"]
         self.currently   = "Building cool stuff 🚀"
         self.motivation  = "Never Give Up!! 💪"
 
@@ -63,49 +62,59 @@ me.say_hi()
 
 | 🎓 | 2nd Year B.Tech CSE @ SRM University (KTR) |
 |---|---|
-| 💻 | Passionate about DSA, Linux & Open Source |
 | 🌱 | Currently exploring AI/ML & System Design |
 | 🎯 | Goal: Build things that matter |
-| ⚡ | Fun fact: I use Linux btw 🐧 |
+
 
 </div>
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 ### 💻 Languages
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+
 </div>
 
-### 📦 Libraries & Frameworks
+### Libraries & Frameworks
 <div align="center">
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 </div>
 
-### 🛠 Tools & Environment
+### Tools & Environment
 <div align="center">
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
@@ -161,70 +170,10 @@ me.say_hi()
 
 </div>
 
-<details>
-<summary>⚙️ <b>How to activate the Snake (click to expand)</b></summary>
 
-<br/>
-
-1. Go to your GitHub profile repo (`yuvanvishnupandi/yuvanvishnupandi`)
-2. Create folder `.github/workflows/`
-3. Create file `snake.yml` with this content:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: push github-contribution-grid-snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-4. Go to **Actions** tab → Run the workflow manually once ✅
-
-</details>
 
 ---
 
-## 🎬 Coding Vibes
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400"/>
-&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400"/>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="200"/>
-&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/238200432-89b5e5ab-186d-40b6-8d3c-8d2c44e51560.gif" width="200"/>
-&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/238200430-b2b3dd4d-6cf7-46a8-8d1e-bf6a8de43a21.gif" width="200"/>
-
-</div>
-
----
 
 <div align="center">
 
