@@ -162,9 +162,9 @@ me.say_hi()
 
 ---
 
-## ✨ Anime Vibes
 
-> *"The only ones who should code are those who are prepared to change the world"* — inspired by Code Geass
+
+
 
 <div align="center">
 
