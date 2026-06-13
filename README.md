@@ -37,7 +37,8 @@ class Yuvan:
                             "HTML", "CSS", "JavaScript"]
         self.tools       = ["VS Code", "IntelliJ", "Git", "Jupyter"]
         self.interests   = ["AI", "ML", "Cloud", "DevOps"]
-        self.currently   = "Building cool stuff 🚀"
+        self.currently   = "Exploring AI/ML & System Design"
+        self.goal        = "Build things that matter"
         self.motivation  = "Never Give Up!!"
 
     def say_hi(self):
@@ -52,22 +53,10 @@ me.say_hi()
 
 ---
 
-## 🚀 About Me
 
-<div align="center">
+## </> Tech Stack
 
-| 🎓 | 2nd Year B.Tech CSE @ SRM University (KTR) |
-|---|---|
-| 🌱 | Currently exploring AI/ML & System Design |
-| 🎯 | Goal: Build things that matter |
-
-</div>
-
----
-
-## Tech Stack
-
-### Languages
+### 🌐 Languages
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -81,7 +70,7 @@ me.say_hi()
 
 </div>
 
-### Libraries & Frameworks
+### ⚛ Libraries & Frameworks
 <div align="center">
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -100,7 +89,7 @@ me.say_hi()
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 </div>
 
-### Tools & Environment
+### 🛠 Tools & Environment
 <div align="center">
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -117,7 +106,7 @@ me.say_hi()
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
