@@ -25,7 +25,7 @@
 
 <img align="right" alt="Coding GIF" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## 🧠 `whoami`
+## `whoami`
 
 ```python
 #!/usr/bin/python3
@@ -69,9 +69,9 @@ me.say_hi()
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -85,7 +85,7 @@ me.say_hi()
 
 </div>
 
-### 📦 Libraries & Frameworks
+### Libraries & Frameworks
 <div align="center">
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -104,7 +104,7 @@ me.say_hi()
 
 </div>
 
-### 🛠 Tools & Environment
+### Tools & Environment
 <div align="center">
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -121,7 +121,7 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -142,6 +142,23 @@ me.say_hi()
 [![Yuvan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yuvanvishnupandi&bg_color=0D1117&color=FF8C00&line=FF8C00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvanvishnupandi/yuvanvishnupandi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvanvishnupandi/yuvanvishnupandi/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yuvanvishnupandi/yuvanvishnupandi/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+
 
 ---
 
@@ -180,23 +197,7 @@ me.say_hi()
 
 </div>
 
----
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvanvishnupandi/yuvanvishnupandi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvanvishnupandi/yuvanvishnupandi/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yuvanvishnupandi/yuvanvishnupandi/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-
-
----
 
 <div align="center">
 
