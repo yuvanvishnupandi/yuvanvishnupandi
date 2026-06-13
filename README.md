@@ -17,7 +17,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yuvanvishnupandi&label=Profile%20Views&color=FF8C00&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/yuvanvishnupandi?label=Followers&style=for-the-badge&color=FF8C00&labelColor=0D1117)
+
 
 </div>
 
