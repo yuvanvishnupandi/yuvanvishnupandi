@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yuvan%20Vishnu%20Pandi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Conquer&descAlignY=55&descSize=20" width="100%"/>
 
@@ -25,7 +25,7 @@
 
 <img align="right" alt="Coding GIF" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## `whoami`
+## 🧠 `whoami`
 
 ```python
 #!/usr/bin/python3
@@ -145,23 +145,38 @@ me.say_hi()
 
 ---
 
-##  Vibes
+## ✨ Anime Vibes
+
+> *"The only ones who should code are those who are prepared to change the world"* — inspired by Code Geass
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="32%"/>
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="32%"/>
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="32%"/>
+
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"/>
+<!-- Row 2: mood row -->
+<img src="https://ani-github.github.io/animegifs/death-note/lookingaround.gif" width="22%" title="Death Note"/>
+&nbsp;
+
+<img src="https://ani-github.github.io/animegifs/steins-gate/fabolous.gif" width="22%" title="Steins;Gate - Fabulous"/>
+&nbsp;
+
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Row 3: wide cinematic vibes -->
+<img src="https://ani-github.github.io/animegifs/hellsing/pressingon.gif" width="45%" title="Hellsing - Pressing On"/>
+&nbsp;&nbsp;
+
 
 </div>
 
