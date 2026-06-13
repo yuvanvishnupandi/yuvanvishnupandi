@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yuvan%20Vishnu%20Pandi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Conquer&descAlignY=55&descSize=20" width="100%"/>
 
-<!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=600&color=FF8C00&center=true&vCenter=true&multiline=false&width=650&lines=Hey+there%2C+I'm+Yuvan+%F0%9F%91%8B;2nd+Year+CSE+Student+%40+SRM+KTR+%F0%9F%8E%93;Never.+Give.+Up.+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
-<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvan-vishnu-pandi-1981ba329/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yuvvvnnnnn/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/yuvanvishnupandi)
@@ -30,7 +27,7 @@
 ```python
 #!/usr/bin/python3
 
-class Vishnu:
+class Yuvan:
 
     def __init__(self):
         self.name        = "Yuvan Vishnu Pandi"
@@ -42,13 +39,13 @@ class Vishnu:
         self.tools       = ["VS Code", "IntelliJ", "Git", "Jupyter"]
         self.interests   = ["AI", "ML", "Cloud", "DevOps"]
         self.currently   = "Building cool stuff 🚀"
-        self.motivation  = "Never Give Up!! 💪"
+        self.motivation  = "Never Give Up!!"
 
     def say_hi(self):
         print("Thanks for visiting!")
         print("Leave a ⭐ if something helped you!")
 
-me = Vishnu()
+me = Yuvan()
 me.say_hi()
 ```
 
@@ -190,7 +187,6 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Row 3: wide cinematic vibes -->
 <img src="https://ani-github.github.io/animegifs/hellsing/pressingon.gif" width="45%" title="Hellsing - Pressing On"/>
 &nbsp;&nbsp;
 
