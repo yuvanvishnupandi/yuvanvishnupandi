@@ -1,4 +1,4 @@
-**Hi, I'm Yuvan 👋**
+### Hi, I'm Yuvan 👋
 
 I'm a Computer Science student at SRM focusing on computer vision, large language models (LLMs), and deep learning.
 
