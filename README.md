@@ -8,4 +8,4 @@ My work focuses on AI research, building practical tools, and developing full-st
 
 * Email: [yuvanvishnupandi@outlook.in](mailto:yuvanvishnupandi@outlook.in)
 * LinkedIn: [in/yuvanvishnupandi](https://linkedin.com/in/yuvanvishnupandi)
-* GitHub: [@lucidrainsme](https://github.com/yuvanvishnupandi)
+* GitHub: [@yuvanvishnupandi](https://github.com/yuvanvishnupandi)
